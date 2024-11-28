@@ -11,8 +11,6 @@ Este repositório contém o código e a documentação para a construção de um
 - [Modelos de IA](#modelos-de-ia)
 - [Treinamento e Avaliação do Modelo](#treinamento-e-avaliação-do-modelo)
 - [Prompt de Classificação de Tickets](#prompt-de-classificação-de-tickets)
-- [Requisitos](#requisitos)
-- [Como Executar](#como-executar)
 
 ## Objetivo
 
